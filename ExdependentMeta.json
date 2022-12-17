@@ -1,0 +1,8 @@
+{
+    "verification": "verification-string-here-for-pool-claim",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://user-images.githubusercontent.com/98871846/208227331-3ba65a06-ba7d-408e-8fe3-d6f1234e4c26.png",
+        "location": "Fukuoka, Japan"
+    }
+}
